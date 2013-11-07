@@ -1,0 +1,5 @@
+name: D8 Demo
+type: theme
+description: 'D8 Demonstation theme.'
+package: Custom
+core: 8.x
