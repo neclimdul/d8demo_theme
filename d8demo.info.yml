@@ -3,3 +3,7 @@ type: theme
 description: 'D8 Demonstation theme.'
 package: Custom
 core: 8.x
+stylesheets:
+  all:
+    - css/layout.css
+    - css/style.css
