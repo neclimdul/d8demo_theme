@@ -1,0 +1,12 @@
+nav[role=navigation] ul.links li {
+  display: inline;
+  padding: 5px;
+  border: 2px solid #d3d3d3;
+  border-radius: 5px;
+}
+.main {
+  float: left;
+}
+.secondary {
+  float: right;
+}
